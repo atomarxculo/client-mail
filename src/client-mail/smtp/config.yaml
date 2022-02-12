@@ -1,0 +1,9 @@
+smtp:
+  host: "localhost"
+  port: "25"
+  username: "test@samuran.com"
+  password: "test"
+  from: "test@samuran.com"
+  to: "delec67359@balaket.com"
+  subject: "Correo de prueba"
+  body: "Esto es una prueba con propiedades"
